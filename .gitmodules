@@ -1,0 +1,12 @@
+[submodule ".gitsubmodules/gdUnit4"]
+	path = .gitsubmodules/gdUnit4
+	url = git@github.com:MikeSchulze/gdUnit4.git
+[submodule ".gitsubmodules/beehave"]
+	path = .gitsubmodules/beehave
+	url = git@github.com:bitbrain/beehave.git
+[submodule ".gitsubmodules/SignalVisualizer"]
+	path = .gitsubmodules/SignalVisualizer
+	url = git@github.com:Ericdowney/SignalVisualizer.git
+[submodule ".gitsubmodules/dialogic"]
+	path = .gitsubmodules/dialogic
+	url = git@github.com:coppolaemilio/dialogic.git
